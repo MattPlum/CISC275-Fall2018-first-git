@@ -58,6 +58,7 @@ Untracked files:
 
 Create an empty repository under your GitHub account and name it "CISC275-Fall2018-first-git".
 Paste the URL of your repository here:
+https://github.com/MattPlum/CISC275-Fall2018-first-git
 
 Back in your machine, create a new local repository:
 
